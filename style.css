@@ -1,0 +1,141 @@
+#header
+ {
+ position: absolute;
+ width: 50px;
+ height: 50px;
+ left: 0px;
+ top: 0px;
+ background: #FFEBCD;
+ background-image: url(header.png);
+ }
+ #headerenter
+ {
+ position: absolute;
+ width: 81px;
+ height: 54px;
+ left: 1172px;
+ top: 24px;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri,
+'Trebuchet MS', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 33px;
+ display: flex;
+ align-items: center;
+ text-align: center;
+ color: #800000;
+ }
+ #menu
+ {
+ position: absolute;
+ width: 1366px;
+ height: 50px;
+ left: 0px;
+ top: 102px;
+ background: #F08080; 
+
+ }
+ #submenu1
+ {
+ position: absolute;
+ width: 442px;
+ height: 50px;
+ left: 0px;
+ top: 0px;
+ }
+ #submenu2
+{
+position: absolute;
+ width: 442px;
+ height: 50px;
+ left: 462px;
+ top: 0px;
+ }
+ #submenu3
+ {
+ position: absolute;
+ width: 442px;
+ height: 50px;
+ left: 924px;
+ top: 0px;
+ }
+ #content
+ {
+ position: absolute;
+ width: 1366px;
+ height: 516px;
+ left: 0px;
+ top: 152px;
+ background-image: url(content.png);
+ }
+ #footer
+ {
+ position: absolute;
+ width: 1366px;
+ height: 100px;
+ left: 0px;
+ top: 668px;
+ background: #FFA07A;
+ }
+ #frame1
+ {
+ position: absolute;
+ width: 200px;
+ height: 40px;
+left: 0px;
+ top: 30px;
+ font-family: 'Gill Sans', 'Gill Sans MT',
+Calibri, 'Trebuchet MS', sans-serif;
+ font-style: normal;
+ font-weight: 300;
+ font-size: 16px;
+ line-height: 22px;
+ display: flex;
+ align-items: center;
+ text-align: center;
+ color: #FFFDFD;
+ }
+ #frame2
+ {
+ /*Стили блока Адрес из Figma*/
+ }
+ #frame3
+ {
+ position: absolute;
+ width: 442px;
+ height: 100px;
+ left: 924px;
+ top: 0px;
+ }
+ #frame4
+ {
+ /*Стили блока Автор сайта из Figma*/
+ }
+ #submenu1text
+ {
+ position: absolute;
+width: 119px;
+ height: 33px;
+ left: 174px;
+ top: 9px;
+
+ font-family: 'Gill Sans', 'Gill Sans MT',
+Calibri, 'Trebuchet MS', sans-serif;
+ font-style: normal;
+font-weight: 300;
+ font-size: 24px;
+ line-height: 33px;
+ display: flex;
+ align-items: center;
+ text-align: center;
+ color: #FFF8DC;
+ }
+#submenu2text
+ {
+ /*Стили блока Преподавателю из Figma*/
+ }
+#submenu3text
+{
+ /*Стили блока Контакты из Figma*/
+ }
